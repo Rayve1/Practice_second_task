@@ -8,3 +8,8 @@ random_text_button.addEventListener("click", () => {
     display.innerHTML = text_array[Math.floor(Math.random() * (text_array.length))]
     display.className = style_array[Math.floor(Math.random() * style_array.length)]
 })
+
+clean_button.addEventListener("click", () => {
+    display.innerHTML = ""
+    display.className = ""
+})
