@@ -1,24 +1,28 @@
-.style1 {
+.color1 {
     background-color: red;
     color: blue;
-  }
-  .style2 {
+}
+.color2 {
     background-color: yellow;
     color: black;
-  }
-  .style3 {
+}
+
+.color3 {
     background-color: blue;
     color: red;
-  }
-  .style4 {
+}
+
+.color4 {
     background-color: green;
     color: yellow;
-  }
-  .style5 {
+}
+
+.color5 {
     background-color: pink;
     color: purple;
-  }
-  .style6 {
+}
+
+.color6 {
     background-color: lightblue;
     color: greenyellow;
-  }
+}
